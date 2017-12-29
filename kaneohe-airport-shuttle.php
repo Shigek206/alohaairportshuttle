@@ -35,7 +35,7 @@
 
 	<?php include 'includes/main-menu-sub.php';?>
 
-	<section class="masthead-sub-cnt rates"></section>
+	<section class="masthead-sub-cnt arrival"></section>
 
 	<?php include 'includes/kaneohe-shuttle-info.php';?>
 
