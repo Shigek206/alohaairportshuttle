@@ -411,6 +411,8 @@ hr {
   min-height: 375px;
   padding: 50px 0;
   text-align: center; }
+  .featured-cnt .cta-spot {
+    margin-bottom: 40px; }
   .featured-cnt h2 {
     color: #414F12;
     margin: 0;
