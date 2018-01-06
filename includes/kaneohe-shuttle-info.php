@@ -7,7 +7,7 @@
 
                 <p>Aloha Airport Shuttle is proud to provide Kaneohe shuttle service to and from the Honolulu Airport. Kaneohe is the largest of several communities along Kāneʻohe Bay and one of the two largest residential communities on the windward side of Oʻahu.</p>
 
-                <h2>Rates: $50.00</h2>
+                <h2>Rates: $50</h2>
 
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!<br />
                 <strong><a href="tel:+18085383355" title="1-808-538-3355">1-808-538-3355</a></strong></p>

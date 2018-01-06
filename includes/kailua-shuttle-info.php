@@ -7,7 +7,7 @@
 
                 <p>Aloha Airport Shuttle is proud to provide Kailua shuttle service to and from the Honolulu Airport. Kailua is located on the East side of Oahu. It boasts some of the top rated beaches in the country including Kailua Beach Park, Kalama Beach Park and Lanikai Beach.</p>
 
-                 <h2>Rate: $55.00</h2>
+                 <h2>Rate: $55</h2>
 
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!<br />
                 <strong><a href="tel:+18085383355" title="1-808-538-3355">1-808-538-3355</a></strong></p>

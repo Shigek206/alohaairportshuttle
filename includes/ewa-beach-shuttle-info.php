@@ -7,7 +7,7 @@
 
                 <p>Aloha Airport Shuttle is proud to provide Ewa Beach shuttle service to and from the Honolulu Airport. Ewa Beach is located on the Leeward side of Oahu.</p>
 
-                 <h2>Rate: $50.00</h2>
+                 <h2>Rate: $50</h2>
 
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!<br />
                 <strong><a href="tel:+18085383355" title="1-808-538-3355">1-808-538-3355</a></strong></p>

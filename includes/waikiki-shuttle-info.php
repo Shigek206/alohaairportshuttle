@@ -7,7 +7,7 @@
 
                 <p>Aloha Airport Shuttle is proud to provide Waikiki shuttle service to and from the Honolulu Airport. Waikiki is the most popular visitor destination on Oahu offering world class shopping, dining, beaches and entertainment. We service all businesses and hotels in Waikiki and downtown Honolulu.</p>
 
-                <h2>Rate: $30.00</h2>
+                <h2>Rate: $30</h2>
 
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!<br />
                 <strong><a href="tel:+18085383355" title="1-808-538-3355">1-808-538-3355</a></strong></p>

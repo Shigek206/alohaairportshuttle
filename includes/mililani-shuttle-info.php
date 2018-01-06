@@ -8,9 +8,9 @@
                 <p>Aloha Airport Shuttle is proud to provide Mililani shuttle service to and from the Honolulu Airport. Mililani is located near the center of Oʻahu Island, on the plateau or "central valley" between the two volcanic mountains that comprise the island.</p>
 
                 <h2>Rates:<br />
-                Mililani Mauka $50.00<br />
-                Mililani Tek. Park $55.00<br />
-                Mililani Town $50.00</h2>
+                Mililani Mauka $50<br />
+                Mililani Tek. Park $55<br />
+                Mililani Town $50</h2>
 
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!<br />
                 <strong><a href="tel:+18085383355" title="1-808-538-3355">1-808-538-3355</a></strong></p>
