@@ -9,10 +9,8 @@
 
                  <h2>Rate: $50</h2>
 
-                <p>Contact Aloha Airport Shuttle to reserve your shuttle!<br />
-                <strong><a href="tel:+18085383355" title="1-808-538-3355">1-808-538-3355</a></strong></p>
-                
-                <p>Toll-Free (U.S. & Canada):<br /><strong><a href="tel:+18555383355" title="1-855-538-3355">1-855-538-3355</a></strong></p>
+                <p>Contact Aloha Airport Shuttle to reserve your shuttle!</p>
+                <p><a href="tel:+18085383355" class="btn btn-default btn-phone" title="1-808-538-3355">1-808-538-3355</a>&nbsp;&nbsp;<a href="tel:+18555383355" class="btn btn-default btn-phone" title="Toll Free 1-855-538-3355 (U.S. & Canada)">1-855-538-3355 (U.S. & Canada)</a></p>
 
                 <p>Email:<br /><strong><a href="info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></strong></p>
 
