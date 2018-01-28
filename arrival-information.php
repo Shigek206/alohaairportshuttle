@@ -30,7 +30,6 @@
 
 	</head>
 
-	<body>
 
 	<?php include 'includes/main-menu.php';?>
 
