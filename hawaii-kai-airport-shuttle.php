@@ -1,5 +1,15 @@
 <html>
 	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28002635-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-28002635-1');
+		</script>
+		
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,16 +26,6 @@
 
 		<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
 		<link href="styles/featherlight.min.css" rel="stylesheet" type="text/css" media="all" />
-
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28002635-1"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'UA-28002635-1');
-		</script>
 
 	</head>
 
