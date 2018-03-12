@@ -12,7 +12,7 @@
                     <h2>Windward</h2>
                     <ul>
                         <li>Aikahi $55</li>
-                        <li class="br">Ahuimanu $50</li>
+                        <li class="br">Ahuimanu $55</li>
                         <li>Enchanted Lake $55</li>
                         <li class="br">Haiku $50</li>
                         <li>Kahaluu $60</li>
@@ -22,7 +22,7 @@
                         <li>Lanikai $60</li>
                         <li>Maunawili $55</li>
                         <li>Olomana $55</li>
-                        <li class="br">Temple Valley $50</li>
+                        <li class="br">Temple Valley $55</li>
                         <li>Waiahole $65</li>
                         <li>Waikane $65</li>
                         <li>Waimanalo $65</li>
@@ -94,7 +94,7 @@
                     <ul>
                         <li>Barbers Point $60</li>
                         <li>Campbell Industrial $60</li>
-                        <li>Ewa Beach $50</li></li>
+                        <li>Ewa Beach $50, $55, $60</li></li>
                         <li>Kaleloa $60</li>
                         <li>Kapolei $50</li>
                         <li>Ko' Olina $60</li></li>
@@ -160,28 +160,15 @@
             </div>
             <hr>
             <div class="row">
-                <div class="col-xs-12 col-sm-4">
+                <div class="col-sm-12">
                     <h2>Extra Charges</h2>
                     <ul>
-                        <li>Surfboards $4</li>
+                        <li>Surfboards $5</li>
                         <li>Pets $5 - $15</li>
                         <li>Waiting Time (15min) $10</li>
-                    </ul>
-                </div>
-
-                <div class="col-xs-12 col-sm-4">
-                    <ul>
-                        <li>Bike $4</li>
+                        <li>Bike $5</li>
                         <li>Golf Clubs $2</li>
                         <li>Misc. $10</li>
-                    </ul>
-                </div>
-
-                <div class="col-xs-12 col-sm-4">
-                    <ul>
-                        <li>Surfboards $4</li>
-                        <li>Pets $5 - $15</li>
-                        <li>Waiting Time (15min) $10</li>
                     </ul>
                 </div>
             </div>
