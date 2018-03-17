@@ -12,7 +12,7 @@
 					<li><a href="https://www.tripadvisor.com/Attraction_Review-g60982-d8050358-Reviews-Aloha_Airport_Shuttle-Honolulu_Oahu_Hawaii.html" title="TripAdvisor Reviews" target="_blank"><img src="graphics/tripadvisor-aloha-airport-shuttle.png" alt="TripAdvisor Aloha Airport Shuttle"></a></li>
 				</ul>
 
-				<span>&copy; 2018 Aloha Airport Shuttle | Powered by: <a href="http://www.marctakeuchi.com" title="bamboo.digital">bamboo.digital</a></span>
+				<span>&copy; 2018 Aloha Airport Shuttle | Powered by <a href="http://www.marctakeuchi.com" title="bamboo.digital">bamboo.digital</a></span>
 			</div>
 			<div class="col-xs-12 col-sm-6 txt-right">
 				<h3>Contact Us Today!</h3>
