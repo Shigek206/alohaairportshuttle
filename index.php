@@ -14,7 +14,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta NAME="description" CONTENT="Honolulu Airport Shuttle Service with transportation to and from the airport."> 
-		<title>Hawaii Airport Shuttle Honolulu, HI | Aloha Airport Shuttle | 1-808-538-3355</title>
+		<title>Airport Shuttle Honolulu Hawaii | Aloha Airport Shuttle | 1-808-538-3355</title>
 		<link rel="icon" href="favicon.gif" sizes="16x16" />
 		<link rel="shortcut icon" type="x-icon" href="favicon.ico" />
 		
