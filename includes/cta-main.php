@@ -23,13 +23,13 @@
 
 			<div class="col-xs-12 col-sm-4">
 				<div class="cta-spot cta-contact">
-					<a href="tel:+18085383355" title="1.808.538.3355"><img src="graphics/cta-secretary2-ico.jpg" alt="Contact Us"></a>
+					<a href="tel:+18085383355" class="phone" title="1.808.538.3355"><img src="graphics/cta-secretary2-ico.jpg" alt="Contact Us"></a>
 					<h2>Friendly, Reliable, On Time</h2>
 					<p>Call today to reserve your pick-up!<br />
-					<strong><a href="tel:+18085383355" title="1-808-538-3355">1.808.538.3355</a></strong></p>
+					<strong><a href="tel:+18085383355" class="phone" title="1-808-538-3355">1.808.538.3355</a></strong></p>
 
 					<p>Toll-Free (U.S & Canada)<br />
-					<strong><a href="tel:+18555383355" title="1-855-538-3355">1.855.538.3355</a></strong>
+					<strong><a href="tel:+18555383355" class="phone" title="1-855-538-3355">1.855.538.3355</a></strong>
 					</p>
 				</div>
 			</div>

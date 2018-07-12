@@ -13,8 +13,8 @@
 			<div class="col-xs-12 col-sm-5 contact">
 				<img src="graphics/intro-ico.jpg" alt="Family Vacation" class="intro-img">
 				<h2>Reserve your pick-up today!</h2>
-				<p><strong><a href="tel:+1-808-538-3355" title="1-808-538-3355">1-808-538-3355</a></strong></p> 
-				<p>Toll-Free (U.S. & Canada)<br /><strong><a href="tel:+1-855-538-3355" title="1-855-538-3355">1-855-538-3355</a></strong></p>
+				<p><strong><a href="tel:+1-808-538-3355" title="1-808-538-3355" class="phone">1-808-538-3355</a></strong></p> 
+				<p>Toll-Free (U.S. & Canada)<br /><strong><a href="tel:+1-855-538-3355" class="phone" title="1-855-538-3355">1-855-538-3355</a></strong></p>
 				<p><a href="mailto:info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></p>
 
 				<p class="contact-rates"><a href="rates-and-destinations" class="btn btn-default" title="View Our Rates">View Our Rates</a></p>

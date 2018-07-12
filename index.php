@@ -1,13 +1,7 @@
 <html>
 	<head>
-		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-5RRXHQW');</script>
-		<!-- End Google Tag Manager -->
-		
+	
+
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28002635-1"></script>
 		<script>
@@ -17,6 +11,14 @@
 
 		  gtag('config', 'UA-28002635-1');
 		</script>
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5RRXHQW');</script>
+		<!-- End Google Tag Manager -->
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 		<meta charset="utf-8">
@@ -36,13 +38,7 @@
 
 		<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />	
 
-		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-5RRXHQW');</script>
-		<!-- End Google Tag Manager -->
+		
 	</head>
 
 	<body>
@@ -57,7 +53,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 text-center">
-					<h2>Call Today! <a href="tel:+1-808-538-3355" title="Call Today! 1-808-538-3355">1-808-538-3355</a></h2>
+					<h2>Call Today! <a href="tel:+1-808-538-3355" title="Call Today! 1-808-538-3355" class="phone">1-808-538-3355</a></h2>
 				</div>
 			</div>
 		</div>
@@ -69,7 +65,7 @@
 				<div class="col-xs-12 col-sm-12">
 					<div class="masthead-txt">
 						<h4>Friendly <img src="graphics/plane-ico.png"> Reliable <img src="graphics/plane-ico.png"> On Time</h4>
-						<h5>Aloha Airport Shuttle &bull; <a href="tel:+1-808-538-3355" title="Call Today! 1-808-538-3355">1-808-538-3355</a>
+						<h5>Aloha Airport Shuttle &bull; <a href="tel:+1-808-538-3355" class="phone" title="Call Today! 1-808-538-3355">1-808-538-3355</a>
 						<span><a href="mailto:info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></span></h5>
 						
 					</div>
