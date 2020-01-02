@@ -66,7 +66,7 @@
 					<div class="masthead-txt">
 						<h4>Friendly <img src="graphics/plane-ico.png"> Reliable <img src="graphics/plane-ico.png"> On Time</h4>
 						<h5>Aloha Airport Shuttle &bull; <a href="tel:+1-808-538-3355" class="phone" title="Call Today! 1-808-538-3355">1-808-538-3355</a>
-						<span><a href="mailto:info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></span></h5>
+						<span><a href="mailto:info@alohaairportshuttle.com" class="email" title="Email Us">info@alohaairportshuttle.com</a></span></h5>
 						
 					</div>
 				</div>

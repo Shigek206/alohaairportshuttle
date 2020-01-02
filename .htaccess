@@ -13,4 +13,7 @@ RewriteCond %{SERVER_PORT} 80
 RewriteCond %{HTTP_HOST} ^(www\.)?alohaairportshuttle\.com
 RewriteRule ^(.*)$ https://www.alohaairportshuttle.com/$1 [R,L]
 
-#RewriteRule ^frequently-asked-questions.php$ /frequently-asked-questions [R=301,L]
+RewriteRule ^h/2021443.html$ / [R=301,L]
+RewriteRule ^h/6708784.html$ / [R=301,L]
+RewriteRule ^h/6708784.html$ / [R=301,L]
+RewriteRule ^h/6708784.html$ / [R=301,L]

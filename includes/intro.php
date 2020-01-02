@@ -15,7 +15,8 @@
 				<h2>Reserve your pick-up today!</h2>
 				<p><strong><a href="tel:+1-808-538-3355" title="1-808-538-3355" class="phone">1-808-538-3355</a></strong></p> 
 				<p>Toll-Free (U.S. & Canada)<br /><strong><a href="tel:+1-855-538-3355" class="phone" title="1-855-538-3355">1-855-538-3355</a></strong></p>
-				<p><a href="mailto:info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></p>
+				<p><a href="mailto:info@alohaairportshuttle.com" class="email" title="Email Us">info@alohaairportshuttle.com</a></p>
+				<p><a href="https://www.tripadvisor.com/Attraction_Review-g60982-d8050358-Reviews-Aloha_Airport_Shuttle-Honolulu_Oahu_Hawaii.html" target="_blank" title="TripAdvisor Reviews"><img src="graphics/aas-trip-advisor.jpg" alt="View Our Ratings on TripAdvisor"/></a></p>
 
 				<p class="contact-rates"><a href="rates-and-destinations" class="btn btn-default" title="View Our Rates">View Our Rates</a></p>
 			</div>

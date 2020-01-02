@@ -17,7 +17,7 @@
 	        	<li><a href="rates-and-destinations" title="Rates to and from the Honolulu airport">Rates</a></li>
 	        	<li><a href="arrival-information" title="Arrival Information">Arrival Information</a></li>
 	        	<li><a href="frequently-asked-questions" title="Frequently Asked Question">FAQs</a></li>
-	        	<li><a href="tel:+1-808-538-3355" title="Call Today: 1-808-538-3355"><strong>Call Today: 1-808-538-3355</strong></a></li>
+	        	<li><a href="tel:+1-808-538-3355" title="Call Today: 1-808-538-3355" class="phone"><strong>Call Today: 1-808-538-3355</strong></a></li>
 	        	<li><a href="mailto:info@alohaairportshuttle.com">info@alohaairportshuttle.com</a></li>
 	      	</ul>
 	    </div><!--/.nav-collapse -->

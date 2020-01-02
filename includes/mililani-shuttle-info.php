@@ -5,7 +5,7 @@
             <div class="col-xs-12 col-sm-8">
                 <h1>Mililani Airport Shuttle</h1>
 
-                <p>Aloha Airport Shuttle is proud to provide Mililani shuttle service to and from the Honolulu Airport. Mililani is located near the center of Oʻahu Island, on the plateau or "central valley" between the two volcanic mountains that comprise the island.</p>
+                <p>Aloha Airport Shuttle is proud to provide Mililani shuttle service to and from the Daniel K. Inouye International Airport (formerly Honolulu-Oahu International Airport - HNL). Mililani is located near the center of Oʻahu Island, on the plateau or "central valley" between the two volcanic mountains that comprise the island.</p>
 
                 <h2>Rates:<br />
                 Mililani Mauka $50<br />
@@ -15,7 +15,7 @@
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!</p>
                 <p><a href="tel:+18085383355" class="btn btn-default btn-phone" title="1-808-538-3355">1-808-538-3355</a>&nbsp;&nbsp;<a href="tel:+18555383355" class="btn btn-default btn-phone" title="Toll Free 1-855-538-3355 (U.S. & Canada)">1-855-538-3355 (U.S. & Canada)</a></p>
 
-                <p>Email:<br /><strong><a href="info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></strong></p>
+                <p>Email:<br /><strong><a href="info@alohaairportshuttle.com" class="email" title="Email Us">info@alohaairportshuttle.com</a></strong></p>
 
                 <p><a href="rates-and-destinations" class="btn btn-default" title="View Our Shuttle Rates">View All Rates</a></p>
             </div>  

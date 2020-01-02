@@ -43,7 +43,7 @@
                         <li>Kahala $35</li>
                         <li>Kalama Valley $55</li>
                         <li>Kamehame Ridge $55</li>
-                        <li>Kamiloiki Valley $50</li>
+                        <li>Kamiloiki Valley $55</li>
                         <li>Kawaihae $50</li>
                         <li class="br">Kuliouou $45</li></li>
 
@@ -62,9 +62,8 @@
                 <div class="col-xs-12 col-sm-4">
                     <h2>Honolulu</h2>
                     <ul>
-                        <li>Ala Moana $25</li>
                         <li class="br">Alewa Heights $25</li>
-                        <li>Downtown $20</li>
+                        <li>Downtown $25</li>
                         <li class="br">Halawa $25</li>
                         <li>Kaimuki $30</li>
                         <li>Kakaako $25</li>
@@ -79,8 +78,8 @@
                         <li>Round Top $30</li>
                         <li>Salt Lake $20</li>
                         <li>Tantalus $30</li>
-                        <li>Tripler/AMR $20</li>
-                        <li class="br">UH Campus $28</li>
+                        <li>AMR $25</li>
+                        <li class="br">UH Campus $30</li>
                         <li>Waikiki $30</li>
                     </ul>
                 </div>
@@ -98,10 +97,10 @@
                         <li>Kaleloa $60</li>
                         <li>Kapolei $50</li>
                         <li>Ko' Olina $60</li></li>
-                        <li>Maili $80</li>
-                        <li>Makaha $90</li>
+                        <li>Maili $85</li>
+                        <li>Makaha $95</li>
                         <li>Makakilo $50</li>
-                        <li>Nanakuli $70</li></li>
+                        <li>Nanakuli $75</li></li>
                         <li>Waianae $85</li>
                         <li>Waikele $35</li>
                         <li>Waipahu $40</li>
@@ -124,10 +123,8 @@
                         <li>Pearl City $30</li></li>
                         <li>Royal Kunia $40</li>
                         <li>Royal Summit $30</li>
-                        <li>Schofield $60</li>
-                        <li>Village Park $40</li>
+                        <li>Village Park $45</li>
                         <li>Wahiawa $60</li>
-                        <li>Wheeler $60</li>
                         <li>Whitmore Village $65</li>
                     </ul>
                 </div>

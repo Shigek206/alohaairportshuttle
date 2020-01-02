@@ -7,18 +7,17 @@
 
 				<ul>
 					<li><a href="https://www.facebook.com/alohaairportshuttle/?rf=206813892697382" title="Find Us on Facebook" target="_blank"><img src="graphics/facebook-aloha-airport-shuttle.png" alt="Find Us on Facebook"></a></li>
-					<li><a href="https://plus.google.com/107190753197310461891" title="Google+" target="_blank"><img src="graphics/google-aloha-airport-shuttle.png" alt="Google+"></a></li>
 					<li><a href="https://www.yelp.com/biz/aloha-airport-shuttle-honolulu" title="Yelp Reviews" target="_blank"><img src="graphics/yelp-aloha-airport-shuttle.png" alt="Yelp Reviews"></a></li>
 					<li><a href="https://www.tripadvisor.com/Attraction_Review-g60982-d8050358-Reviews-Aloha_Airport_Shuttle-Honolulu_Oahu_Hawaii.html" title="TripAdvisor Reviews" target="_blank"><img src="graphics/tripadvisor-aloha-airport-shuttle.png" alt="TripAdvisor Aloha Airport Shuttle"></a></li>
 				</ul>
 
-				<span>&copy; 2018 Aloha Airport Shuttle | Powered by <a href="https://www.marctakeuchi.com" title="bamboo.digital">bamboo.digital</a></span>
+				<span>&copy; 2019 Aloha Airport Shuttle | Powered by <a href="https://www.marctakeuchi.com" title="bamboo.digital">bamboo.digital</a></span>
 			</div>
 			<div class="col-xs-12 col-sm-6 txt-right">
 				<h3>Contact Us Today!</h3>
 				<p><strong>Phone:</strong> <a href="tel:+1-808-538-3355" title="1-808-538-3355">1-808-538-3355</a><br />
 				<strong>Toll-Free(U.S & Canada):</strong> <a href="tel:+1-855-538-3355" title="1-855-538-3355">1-855-538-3355</a><br />
-				<strong>Email:</strong> <a href="mailto:info@alohaairportshuttle.com" title="Email Us">info@alohaairportshuttle.com</a></p>
+				<strong>Email:</strong> <a href="mailto:info@alohaairportshuttle.com" class="email" title="Email Us">info@alohaairportshuttle.com</a></p>
 
 				<span>
 					<a href="/" title="">Home</a> <a href="rates" title="Rates">Rates</a> <a href="arrival-information" title="Arrival Information">Arrival Information</a> <a href="frequently-asked-questions" title="Frequently Asked Questions">FAQs</a>

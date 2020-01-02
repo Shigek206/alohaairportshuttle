@@ -20,8 +20,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta NAME="description" CONTENT="Airport Shuttle to the Honolulu Airport to and from Kaneohe, HI"> 
-		<title>Kaneohe Airport Shuttle | Aloha Airport Shuttle | Honolulu, HI</title>
+		<meta NAME="description" CONTENT="Airport Shuttle to the Honolulu Airport to and from Kaneohe, HI - $50"> 
+		<title>Kaneohe Airport Shuttle $50 | Aloha Airport Shuttle | Honolulu, HI</title>
 		<link rel="icon" href="favicon.gif" sizes="16x16" />
 		<link rel="shortcut icon" type="x-icon" href="favicon.ico" />
 		
