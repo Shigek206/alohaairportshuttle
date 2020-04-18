@@ -319,6 +319,13 @@ hr {
 
   .cust-testimonial {
     min-height: 200px; } }
+/** BANNER **/
+.banner {
+  background-color: #F3F4F8;
+  padding: 20px 0 0; }
+  .banner a {
+    text-decoration: underline; }
+
 /*** HOMEPAGE INTRO ***/
 .intro-cnt {
   padding: 50 0; }

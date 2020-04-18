@@ -1,30 +1,12 @@
 <html>
 	<head>
-	
-
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28002635-1"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'UA-28002635-1');
-		</script>
-
-		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-5RRXHQW');</script>
-		<!-- End Google Tag Manager -->
+		<?php include 'scripts/ga-tags.php';?>
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta NAME="description" CONTENT="Honolulu Airport Shuttle Service with transportation to and from the airport."> 
-		<title>Airport Shuttle Honolulu Hawaii | Aloha Airport Shuttle | 1-808-538-3355</title>
+		<meta NAME="description" CONTENT="Honolulu Airport Shuttle and Transfer Service with transportation to and from the airport."> 
+		<title>Honolulu Airport Shuttle Hawaii | Aloha Airport Shuttle | 1-808-538-3355</title>
 		<link rel="icon" href="favicon.gif" sizes="16x16" />
 		<link rel="shortcut icon" type="x-icon" href="favicon.ico" />
 		
@@ -37,15 +19,14 @@
 		<link href="styles/jquery.bxslider.css" rel="stylesheet" type="text/css" media="all" />
 
 		<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />	
-
 		
 	</head>
 
 	<body>
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RRXHQW"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
+
+	<?php include 'scripts/gtm.php';?>
+
+	<?php include 'includes/main-menu.php';?>
 
 	<?php include 'includes/main-menu.php';?>
 
@@ -73,6 +54,8 @@
 			</div>
 		</div>
 	</section>
+
+	<?php include 'includes/banner-hp.php';?>
 
 	<?php include 'includes/intro.php';?>
 
