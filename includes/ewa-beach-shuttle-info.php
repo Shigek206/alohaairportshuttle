@@ -1,13 +1,13 @@
-<section class="intro-cnt rates-txt" itemtype="http://schema.org/Product" itemscope>
+<section class="intro-cnt rates-txt">
     <div class="container">
         <div class="row">
 
             <div class="col-xs-12 col-sm-8">
-                <h1 itemprop="name">Ewa Beach Airport Shuttle</h1>
+                <h1>Ewa Beach Airport Shuttle</h1>
 
-                <p itemprop="descriptions">Aloha Airport Shuttle is proud to provide Ewa Beach shuttle service to and from the Daniel K. Inouye International Airport (formerly Honolulu-Oahu International Airport - HNL). Ewa Beach is located on the Leeward side of Oahu.</p>
+                <p>Aloha Airport Shuttle is proud to provide Ewa Beach shuttle service to and from the Daniel K. Inouye International Airport (formerly Honolulu-Oahu International Airport - HNL). Ewa Beach is located on the Leeward side of Oahu.</p>
 
-                 <h2 itemprop="price">Rate: $50, $55, $60</h2>
+                 <h2>Rate: $50, $55, $60</h2>
 
                 <p>Contact Aloha Airport Shuttle to reserve your shuttle!</p>
                 <p><a href="tel:+18085383355" class="btn btn-default btn-phone" title="1-808-538-3355">1-808-538-3355</a>&nbsp;&nbsp;<a href="tel:+18555383355" class="btn btn-default btn-phone" title="Toll Free 1-855-538-3355 (U.S. & Canada)">1-855-538-3355 (U.S. & Canada)</a></p>

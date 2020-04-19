@@ -3,21 +3,18 @@
         <div class="row">   
 
             <div class="col-xs-12 col-sm-8">
-                <h1 itemprop="title">Waikiki Airport Shuttle</h1>
+                <h1>Waikiki Airport Shuttle</h1>
 
-                <p itemprop="description">Aloha Airport Shuttle is proud to provide Waikiki shuttle service to and from the Daniel K. Inouye International Airport (formerly Honolulu-Oahu International Airport - HNL). Waikiki is the most popular visitor destination on Oahu offering world class shopping, dining, beaches and entertainment. We service all businesses and hotels in Waikiki and downtown Honolulu.</p>
+                <p>Aloha Airport Shuttle is proud to provide Waikiki shuttle service to and from the Daniel K. Inouye International Airport (formerly Honolulu-Oahu International Airport - HNL). Waikiki is the most popular visitor destination on Oahu offering world class shopping, dining, beaches and entertainment. We service all businesses and hotels in Waikiki and downtown Honolulu.</p>
 
-                <div class="pricewrap" itemtype="http://schema.org/Offer" itemprop="offers" itemscope>
-                    <h2>Rate: <span itemprop="price">$30.00</span></h2>
-                    <meta content="USD" itemprop="priceCurrency">
+                <h2>Rate: $30</h2>
 
-                    <p>Contact Aloha Airport Shuttle to reserve your shuttle!</p>
-                    <p><a href="tel:+18085383355" class="btn btn-default btn-phone" title="1-808-538-3355">1-808-538-3355</a>&nbsp;&nbsp;<a href="tel:+18555383355" class="btn btn-default btn-phone" title="Toll Free 1-855-538-3355 (U.S. & Canada)">1-855-538-3355 (U.S. & Canada)</a></p>
+                <p>Contact Aloha Airport Shuttle to reserve your shuttle!</p>
+                <p><a href="tel:+18085383355" class="btn btn-default btn-phone" title="1-808-538-3355">1-808-538-3355</a>&nbsp;&nbsp;<a href="tel:+18555383355" class="btn btn-default btn-phone" title="Toll Free 1-855-538-3355 (U.S. & Canada)">1-855-538-3355 (U.S. & Canada)</a></p>
 
-                    <p>Email:<br /><strong><a href="info@alohaairportshuttle.com" class="email" title="Email Us">info@alohaairportshuttle.com</a></strong></p>
+                <p>Email:<br /><strong><a href="info@alohaairportshuttle.com" class="email" title="Email Us">info@alohaairportshuttle.com</a></strong></p>
 
-                    <p><a href="rates-and-destinations" class="btn btn-default" title="View Our Shuttle Rates">View All Rates</a></p>
-                </div>
+                <p><a href="rates-and-destinations" class="btn btn-default" title="View Our Shuttle Rates">View All Rates</a></p>
             </div>  
 
             <div class="col-xs-12 col-sm-4">

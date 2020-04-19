@@ -15,8 +15,7 @@
 				<div class="cta-spot">
 					<a href="frequently-asked-questions" title="Frequently Asked Questions"><img src="graphics/cta-couple-ico.jpg" alt="Frequently Asked Questions"></a>
 					<h2>Relax! We have you covered!</h2>
-					<p>Our experienced and friendly drivers will make sure
-					you get picked up and get to your destination on time. </p>
+					<p>Our experienced and friendly drivers will make sure to get you to your destination on time.</p>
 					<a href="frequently-asked-questions" class="btn btn-default" title="Freqently Asked Questions">Learn More</a>
 				</div>
 			</div>

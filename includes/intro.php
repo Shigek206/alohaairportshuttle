@@ -4,7 +4,7 @@
 			<div class="col-xs-12 col-sm-7 intro-txt">
 				<h1>Aloha Airport Shuttle - Honolulu Airport Shuttle to and from the airport servicing all regions of Oahu.</h1>
 
-				<p>Aloha Airport Shuttle is a locally owned and operated company based in Honolulu Hawaii that has been providing airport shuttle service on the island of Oahu for 15 years. We specialize in door to door airport shuttle service to and from the Honolulu airport. Our drivers are courteous, friendly, knowledgeable and experienced. We service the entire island of Oahu and specialize in local residential transportation to and from the Honolulu airport. We offer low flat rates and great service and are always on time and dependable. We are fully licensed and insured.</p>
+				<p>Aloha Airport Shuttle is a locally owned and operated company based in Honolulu Hawaii that has been providing airport shuttle service on the island of Oahu for over 15 years. We specialize in door to door airport shuttle service to and from the Honolulu airport. Our drivers are courteous, friendly, knowledgeable and experienced. We service the entire island of Oahu and specialize in local residential transportation to and from the Daniel K. Inouye International Airport (formerly Honolulu-Oahu International Airport - HNL). We offer low flat rates and great service and are always on time and dependable. We are fully licensed and insured.</p>
 				<p><a href="rates-and-destinations" class="btn btn-default">View Our Rates</a></p>
 				<h2>Flexible Payment Methods</h2>
 				<img src="graphics/payments-ico.png" alt="Flexible Payment Methods (MasterCard, American Express, Visa">
